@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Sheldon Johnson
+	email = shayolden@hotmail.com
+[core]
+	editor = nvim
+	excludesfile = /Users/sheldon/.gitignore_global
+	pager = cat
